@@ -1,0 +1,7 @@
+#litologia	r	g	b	  a	    rho(g/c3)
+Folhelho	0	212	85	 255	2.4
+A1	       135	170	222	 255	2.05
+A2	       255	0	0	 255	2.1
+Marga	   33	68	120	 255	2.2
+Basalto	  170	0	0	 255	2.80
+
