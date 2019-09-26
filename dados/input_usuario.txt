@@ -1,12 +1,12 @@
-#litologia	r	g	b	a	rho(g/c3)	phi
-Sandstone	255	230	128	255			
-Shale2		0	212	85	255	2.4		40		
-Diabase		255	0	0	255	2.1		30
-Dolomite	135	170	222	255	2.05
-Basalt		0	0	0	255	2.80		23
-Shale1		128	128	0	255
-Halite		33	68	120	255	2.2		18
-Granit		170	0	0	255
-Conglomerate	255	102	0	255
-Crystaline	255	179	128	255
+#litologia		r	g	b	a	phi_mean   phi_std
+Sandstone 		255	230	128	255  0.16		0.07			
+Shale2	    	0	212	85	255	-999.9		-999.9	
+Diabase	  		255	0	0	255	-999.9		-999.9
+Dolomite  		135	170	222	255	 0.13		0.06
+Basalt	   		0	0	0	255	-999.9		-999.9
+Shale1	  		128	128	0	255 -999.9		-999.9
+Halite	  		33	68	120	255	-999.9		-999.9
+Granit	 		170	0	0	255 -999.9		-999.9
+Conglomerate 	255	102	0	255	-999.9		-999.9
+Crystaline	 	255	179	128	255	-999.9		-999.9
 
