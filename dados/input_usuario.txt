@@ -1,7 +1,12 @@
-#litologia	r	g	b	  a	    rho(g/c3)
-Folhelho	0	212	85	 255	2.4
-A1	       135	170	222	 255	2.05
-A2	       255	0	0	 255	2.1
-Marga	   33	68	120	 255	2.2
-Basalto	  170	0	0	 255	2.80
+#litologia	r	g	b	a	rho(g/c3)	phi
+Sandstone	255	230	128	255			
+Shale2		0	212	85	255	2.4		40		
+Diabase		255	0	0	255	2.1		30
+Dolomite	135	170	222	255	2.05
+Basalt		0	0	0	255	2.80		23
+Shale1		128	128	0	255
+Halite		33	68	120	255	2.2		18
+Granit		170	0	0	255
+Conglomerate	255	102	0	255
+Crystaline	255	179	128	255
 
